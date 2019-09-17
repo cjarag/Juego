@@ -1,0 +1,1 @@
+Archivo del proyecto pacman para el curso de algoritmos y estructuras de datos UPC.
